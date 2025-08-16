@@ -18,7 +18,7 @@ TradeGenie is an AI-powered trade assistant designed to help businesses, exporte
 - **Database:** Prisma + SQLite  
 - **AI Integration:** Gemini API  
 - **Other Tools:** TypeScript, PostCSS  
-
+## Project Live Link - https://v0-fork-of-trade-genie-mu.vercel.app/ 
 ## ⚙️ Build & Run Locally  
 
 1. Clone the repository: `git clone https://github.com/your-username/TradeG
